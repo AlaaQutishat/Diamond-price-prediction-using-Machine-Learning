@@ -13,4 +13,4 @@ This project is classified as a short course on diamond price prediction using M
 
  this pictures appears The most expensive color .
 
-<img src="https://github.com/AlaaQutishat/Diamond-price-prediction-using-Machine-Learning/blob/main/images/clarity.png" alt="" title="">
+<img src="https://github.com/AlaaQutishat/Diamond-price-prediction-using-Machine-Learning/blob/main/images/maxpricecolor.png" alt="" title="">
